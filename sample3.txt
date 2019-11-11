@@ -3,5 +3,6 @@ page-about branch sample3
 chage sample3
 change sample3
 fetchとmerge
+fetchとmergeとpull
 
 
